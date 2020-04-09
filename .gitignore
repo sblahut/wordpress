@@ -275,13 +275,13 @@ __pycache__/
 *.xsd.cs
 
 # Image files
-*.png
-*.jpg
-*.jpeg
-*.psd
-*.pdf
-*.w-png
-*.-ico
+**/.png
+**/.jpg
+**/.jpeg
+**/.psd
+**/.pdf
+**/.-ico
+
 
 # OpenCover UI analysis results
 OpenCover/
