@@ -280,6 +280,8 @@ __pycache__/
 *.jpeg
 *.psd
 *.pdf
+*.w-png
+*.-ico
 
 # OpenCover UI analysis results
 OpenCover/
