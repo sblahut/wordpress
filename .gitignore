@@ -282,6 +282,12 @@ __pycache__/
 **/.pdf
 **/.-ico
 
+# Image Directories
+make/images/
+make-child-theme/images
+make-child-theme/fonts
+
+*.DS_Store
 
 # OpenCover UI analysis results
 OpenCover/
