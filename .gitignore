@@ -10,6 +10,10 @@
 *.jfif
 *.jfi
 
+**/make/images
+**/make-child-theme/images
+**.png
+
 # JPEG 2000
 *.jp2
 *.j2k
