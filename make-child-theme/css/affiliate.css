@@ -1,0 +1,355 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+body:before{
+    display:none!Important;
+}
+body{
+	padding:0;
+	background:#fff!important;
+	margin:0;
+	font:300 16px Lato!important;
+}
+h1,h2,h3,h4,h5,p{
+	margin: 0 0 .75em!important;
+	line-height: 1.2em!important;
+}
+.clear{
+	clear:both;
+}
+a{text-decoration:none;}
+#header{
+	background:#fff;
+	padding:10px 0;
+	border-bottom:5px solid #233f85;
+}
+.container{
+	max-width:970px;
+	padding:0 10px;
+	margin:0 auto;
+}
+.logo{
+	float:left;
+	width:40%;
+}
+.login.v2{padding:0;}
+.login{
+	float:right;
+	font-size:18px;
+	color:#0f3b89;
+	padding:20px 0;
+	text-align:right;
+}
+.affiliate-head{
+	float:right;
+	font-size:18px;
+	color:#0f3b89;
+	padding:35px 0 20px;
+	text-align:right;
+}
+.affiliate-head a {
+	margin: 0 10px;
+}
+.login a, .btn{
+	display:inline-block;
+	font:400 18px Lato;
+	color: #fff!important;
+	background: #ff8221!important;
+	padding: 12px 20px!important;
+	border: none!important;
+}
+.login p, .affiliate-head p{
+	margin:0;
+}
+.footer{
+	text-align:center;
+	font-size:16px;
+	line-height:1em;
+	color:#233f85;
+	padding:30px 0;
+}
+.footer a{
+	color:#233f85;
+	text-decoration:none;
+}
+
+#affiliate-banner{
+	background:url(../images/affiliate-banner.jpg) top center no-repeat;
+	background-size:cover;
+	padding:60px 0;
+	font-size:20px;
+
+	margin-bottom:50px;
+	color:#232323;
+}
+#affiliate-main-banner{
+	background:url(https://www.aiiore.com/wp-content/uploads/2017/08/affiliate-banner.jpg) top center no-repeat;
+	background-size:cover;
+	padding:20px 0;
+	font-size:20px;
+	margin-bottom:50px;
+	color:#232323;
+}
+#affiliate-banner h1, #affiliate-main-banner h1{
+	font:400 40px Lato;
+	color:#0f3b89;
+	text-align: center;
+	text-transform:uppercase;
+}
+h1{
+	font-size:40px;
+	font-weight:400;
+	color:#0f3b89;
+}
+#affiliate-form{
+	border:1px solid #628dc7;
+	font-size:14px;
+	max-width:630px;
+	margin:0 auto;
+	color:#232323;
+}
+#affiliate-form h3{
+	background:#628dc7;
+	font-size:16px;
+	color:#fff;
+	text-transform:uppercase;
+	padding:12px 20px;}
+#affiliate-form .wrap{
+	padding:20px 30px;
+}
+#affiliate-form  label{
+	display:block;
+	font-size:16px;
+	font-weight:400;
+	margin:0 0 5px;
+	color:#232323;
+}
+#affiliate-form input.address{
+	max-width:100%;
+	border:1px solid #628dc7;
+	width:100%;
+	margin-bottom:10px;
+	font-family:Lato;
+	display:block;
+	height:30px;
+}
+#affiliate-form input[type="text"], #affiliate-form input[type="phone"], #affiliate-form input[type="password"], #affiliate-form input[type="email"], #affiliate-form select{
+	border:1px solid #628dc7;
+	width:100%;
+	max-width:370px;
+	margin-bottom:10px;
+	font-family:Lato;
+	display:block;
+	height:30px
+}
+#affiliate-form br{
+	display:none;
+}
+#affiliate-form input[type="submit"]{
+	margin:10px auto!important;
+	display:block;
+	padding: 12px 20px;
+	width: 70%;
+}
+img{
+	max-width:100%;
+}
+
+#dashboard-container{
+	  max-width: 930px;
+	  margin: 0 auto;
+	  box-shadow: 1px 0px 33px #ccc;
+	  background: #fff;
+}
+h1.title{
+	color:#0f3b89;
+	font:700 28px Lato!important;
+	text-align: center;
+	margin: 0 0 10px!important;
+}
+h2.title{
+	color:#477fcb;
+	font:300 26px Lato!important;
+	text-align: center;
+}
+#affiliate-dashboard-content{
+	padding: 45px 20px;
+	}
+
+.affiliate-page{
+	background: url(../images/module-bg-tile.gif) top center repeat!important;
+}
+.box{
+	border:1px solid #628dc7;
+	font-size:16px;
+	margin:0 auto;
+	margin: 0 0 20px;
+	color:#232323;
+}
+.box li{
+	list-style:none;
+	background:url(../images/list.png) top left no-repeat;
+	padding-left: 15px;
+	margin:0 0 12px 15px;
+	background-position: 0 4px;
+}
+.box ul{
+	padding: 0;
+}
+.box h3{
+		background:#628dc7;
+	font-size:14px;
+	color:#fff;
+	text-transform:uppercase;
+	padding:12px 20px;
+	margin-bottom:10px;
+}
+.left{
+	float:left;
+	width: 69%;
+	max-width:660px;
+}
+.right .sidebar img{margin-bottom:10px;}
+.right .sidebar a{
+	color:#233f85;text-decoration:underline;
+}
+.right{
+	float:right;
+	width:35%;
+	max-width: 259px;
+}
+.right .sidebar{
+	border:1px solid #628dc7;
+	float: none!important;
+	margin-left: 0!important;
+	width: auto!important;
+	text-align: center!important;
+}
+.right .sidebar h3{
+	text-align:center;
+	margin-bottom:10px;
+	background:#233f85;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 14px;
+	padding: 12px 20px;
+}
+
+.accordion {
+    width: 100%;
+}
+.accordion .accordion-head br{display:none;}
+.accordion .accordion-head {
+    color: #232323;
+    background-color: #fff;
+    border-bottom: 1px solid #628dc7;
+    position: relative;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 22px;
+	background: url(http://www.aiiore.com/wp-content/themes/make/images/faq-down-arrow.png) 99% no-repeat;
+}
+.accordion .accordion-head p{display:inline}
+.accordion .accordion-head * {
+    cursor: pointer;
+}
+.accordion .accordion-head h4{margin:0!Important;display: inline-block;}
+.accordion .accordion-head span {
+    width:15px;
+    height:11px;
+    background-position:0 11px;
+    background-image: url('../images/arrow.jpg');
+    display: inline-block;
+}
+.accordion .accordion-head:hover {
+    filter: alpha(opacity=80);
+    opacity: 0.80;
+}
+.accordion .accordion-body {
+    border-bottom: 1px solid #628dc7;
+    padding: 20px 0;
+    height: auto;
+    display: none;
+    background: #e5e5e5;
+}
+.accordion .accordion-body p {
+	padding-left: 20px;
+}
+input#copyTarget {
+    margin-left: 20px;
+    background: #e5e5e5;
+    height: 30px;
+    border: none;
+    width: 70%;
+    padding: 10px;
+    max-width: 670px;
+}
+
+button#copyButton {
+    background: #ff8221;
+    color: #fff!important;
+    border-radius: 0;
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-left: 20px;
+    height: 30px;
+	border: 0;
+}
+
+ul.gallery-image {
+    list-style: none;
+    padding: 20px;
+    margin: 0;
+}
+ul.gallery-image li{
+    background:none;
+    display:inline-block;
+    *
+    display:inline;
+    *
+    zoom:1;
+    vertical-align:top;
+    padding:0;
+    margin: 5px 4px;
+    font: 300 10px Lato;
+    text-transform: uppercase;
+    text-align: center;
+}
+ul.gallery-image li img{
+    border:1px solid #233f85;
+    margin-bottom:5px
+}
+ul.gallery-image li a{text-decoration:underline;}
+
+.parter-banner-box-left {
+	display: inline-block;
+	width: 47%;
+	padding: 20px;
+	background: rgba(255,255,255,.9);
+	text-align: center;
+	vertical-align: top;
+	min-height: 220px;
+	margin-right: 2%;
+}
+.parter-banner-box-right {
+	display: inline-block;
+	width: 47%;
+	padding: 20px;
+	background: rgba(255,255,255,.9);
+	text-align: center;
+	vertical-align: top;
+	min-height: 220px;
+	margin-left: 2%;
+}
+
+@media only screen and (max-width: 768px){
+	.right, .left{
+		 width:auto;
+		 float:none;
+	}
+	.right{max-width:300px;margin:10px auto}
+	.right .sidebar{padding:0!important}
+	.parter-banner-box-left, .parter-banner-box-right {
+		width: 100%;
+		margin: 10px 0!important;
+		min-height: auto;
+	}
+}
