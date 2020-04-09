@@ -11,10 +11,9 @@
 *.jfi
 *.png
 
-make/images
-make-child-theme/images
-make-child-theme/fonts
-make/languages
+images
+fonts
+languages
 
 # JPEG 2000
 *.jp2
