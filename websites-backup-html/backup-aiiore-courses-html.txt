@@ -1,0 +1,771 @@
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<div style="display: none;"></div>
+<section id="desk-header" class="builder-section-first builder-section builder-section-panels builder-section-next-banner has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns2.png'); background-attachment: fixed; background-repeat: repeat; background-position: 50% 56.1338px; padding: 30px 0px 60px! important;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1511360873269" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1511360873269" class="ttfmp-panels-item-content">
+<div id="desk-header-testi" class="halves" style="width: 36%;">
+
+<img class="aligncenter size-full wp-image-654" src="http://www.aiiore.com/wp-content/uploads/2015/12/hyman-1.png" alt="hyman" width="160" height="160" />
+<p class="centered white medium" style="margin-top: 20px; font-size: 20px; margin-bottom: 10px;">“Dr. Chilkov is an invaluable resource for creating a plan for health in the midst of the challenges and complexities of cancer.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important; font-size: 20px;">Mark Hyman, M.D.</p>
+<p class="centered white small">Founder, The Ultrawellness Center, Best-selling Author</p>
+
+</div>
+</div>
+<div class="course-video">
+<div id="header-video" class="halves" style="width: 56%;"><iframe style="margin: 0 auto; display: block;" src="https://player.vimeo.com/video/402811121" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<div id="mobile-header-testi" class="halves" style="width: 36%; display: none;">
+
+<img class="aligncenter size-full wp-image-654" src="http://www.aiiore.com/wp-content/uploads/2015/12/hyman-1.png" alt="hyman" width="160" height="160" />
+<p class="centered white medium" style="margin-top: 20px; font-size: 20px; margin-bottom: 10px;">“Dr. Chilkov is an invaluable resource for creating a plan for health in the midst of the challenges and complexities of cancer.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important; font-size: 20px;">Mark Hyman, M.D.</p>
+<p class="centered white small">Founder, The Ultrawellness Center, Best-selling Author</p>
+
+</div>
+</div>
+</div>
+</section><section id="hide-me" class="builder-section-prev-panels builder-section builder-section-banner builder-section-next-panels" style="background-repeat: repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="builder-banner-slide content-position-none" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/courses.jpg');">
+<div class="builder-banner-content">
+<div class="builder-banner-inner-content"></div>
+</div>
+</div>
+</div>
+</section><section id="add-white-borders" class="builder-section-prev-banner builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 5.07001px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1450991704319" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1450991704319" class="ttfmp-panels-item-content">
+<div class="centered" style="text-align: center;"></div>
+<div class="coursebutton">
+<ul>
+ 	<a href="https://dn107.infusionsoft.app/app/orderForms/Foundations-of-Integrative-Oncology?cookieUUID=c2f74412-d2f8-47be-be6d-38cd6e308f45"><li class="registernow"></li></a>
+</ul>
+&nbsp;
+
+</div>
+</div>
+<h2 class="white" style="font-size: 34px;">Foundations of Integrative Oncology Professional Training Program</h2>
+<ul class="white-bullets">
+ 	<li>100% Online – Get Full Immediate Access and Learn at Your Own Pace!</li>
+ 	<li>Meeting these needs can benefit your patients and your practice.</li>
+ 	<li>Expand Your Practice and Develop Expertise</li>
+ 	<li>Improve Patient Outcomes</li>
+ 	<li>Expand Your Client Base</li>
+ 	<li>Enhance The Quality of Your Service</li>
+ 	<li>Improve Your Revenue Stream</li>
+ 	<li>Change Lives and Deliver Health</li>
+ 	<li>Provide Cancer Prevention and Support for Health and Longevity</li>
+ 	<li>Support Patients During &amp; After Conventional Oncology Treatments</li>
+</ul>
+<h2 class="white" style="font-size: 34px;">Live Office Hours with Dr. Nalini Chilkov</h2>
+<h3 style="text-align: left;">Monthly LIVE sessions with Dr. Nalini where you will:</h3>
+<ul>
+ 	<li>Get ALL OF YOUR MOST PRESSING CLINICAL QUESTIONS ANSWERED EVERY MONTH</li>
+ 	<li>LEARN TO MASTER the <em>OutSmart Cancer System®</em></li>
+ 	<li>ACHEIEVE clinical excellence</li>
+ 	<li>IMPROVE outcomes</li>
+ 	<li>GAIN confidnece in building individualized care plans</li>
+ 	<li>ELIMINATE the guesswork</li>
+</ul>
+<ul>
+ 	<a href="https://www.aiiore.com/live-office-hours"><li class="learnmore">Learn more</li></a>
+</ul>
+&nbsp;
+<h2></h2>
+</div>
+</div>
+</section><section id="builder-section-1484069095326" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns2.png'); background-repeat: repeat; background-attachment: fixed; background-position: 50% -8.72999px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-content-1484069095332" class="ttfmp-panels-item-content">
+<h2 class="white" style="font-size: 34px; text-align: start;">Foundations of Integrative Oncology Professional Training Program</h2>
+<h2 class="large white"><em><span style="font-size: 32pt; color: white;">Register today for Dr. Nalini Chilkov’s</span></em></h2>
+<h2 class="verylarge white" style="margin-top: 0px !important; padding-top: 0px !important;">Foundations of Integrative Oncology Online Course!</h2>
+<p class="large white centered"><strong>Price: $3,499</strong></p>
+<p class="large white centered">Or choose a payment plan and start for as little as $945</p>
+
+<div class="centered " style="text-align: center;"></div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1450991806162" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/bgbloom-2.png'); background-repeat: no-repeat; background-position: center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1450991806168" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1450991806168" class="ttfmp-panels-item-content">
+<h2 class="darkblue" style="font-size: 34px;">Support the Health of Cancer Patients and Watch Your Practice Grow</h2>
+<h3 class="grey" style="font-size: 22px;">Let the oncologist be the disease expert. You can be the<strong class="orange"> health expert </strong>that cancer patients are looking for.</h3>
+<h3 class="grey" style="font-size: 22px;">You may be thinking … <strong><em class="grey">“But Cancer is Not My Specialty.”</em></strong> Of course not. This is not about treating <strong class="orange">CANCER</strong>. That’s not your job.</h3>
+<h3 class="grey" style="font-size: 22px;">This is about treating <strong class="grey">THE PATIENT</strong>. (And up to now, in almost all cases, <strong class="orange">no one has been doing that</strong>.)</h3>
+<h3 class="grey" style="font-size: 22px;"><strong><em class="grey">Serve a growing patient population that needs you.</em></strong></h3>
+<div class="halves" style="margin: 2% auto; display: block; float: none;"></div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1486698019448" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1486698019452" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1486698019452" class="ttfmp-panels-item-content">
+<h2 class="verylarge darkblue">Course Modules</h2>
+<div class="blueboxheader">
+<h3><strong>1:</strong>Introduction to Integrative Cancer Care</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Introduction &amp; Overview</h4>
+<h4><strong>Lesson 2:</strong> The Challenge &amp; Mystery of Cancer</h4>
+<h4><strong>Lesson 3:</strong> Cancer Statistics</h4>
+<h4><strong>Lesson 4:</strong> What is Integrative Cancer Care?</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>2:</strong>The Complex Landscape of Cancer</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Complex Systems and Individualized Care</h4>
+<h4><strong>Lesson 2:</strong> Characteristics of Tumor Cells</h4>
+<h4><strong>Lesson 3:</strong> Hallmarks of Cancer</h4>
+<h4><strong>Lesson 4:</strong> Patient Biological Terrain</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>3:</strong>Principles of Diet &amp; Nutrition for Cancer Patients</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Epigenetic Impact of Foods on Gene Expression</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>4:</strong>Integrative Cancer Care Toolbox</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Core Nutraceuticals</h4>
+<h4><strong>Lesson 2:</strong> Medical Foods, Protein Repletion &amp; Glycemic Control</h4>
+<h4><strong>Lesson 3:</strong> Materia Medica: Targeted Phytochemicals</h4>
+<h4><strong>Lesson 4:</strong> Materia Medica: Targeted Nutraceuticals</h4>
+<h4><strong>Lesson 5:</strong> Materia Medica: Immune Modulation</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>5:</strong>Introduction to Oriental Medicine &amp; Cancer</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Ancient Tradition &amp; Cancer</h4>
+<h4><strong>Lesson 2:</strong> Modern Oriental Medicine &amp; Cancer Care</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>6:</strong>Building Comprehensive Support Plans</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Building a Comprehensive Support Plan</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>7:</strong>Into Practice: Case Studies &amp; Support Plans</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Case Studies: Basic Principles &amp; Sample Support Plans</h4>
+<h4><strong>Lesson 2:</strong> Case Studies: Complex Cases &amp; Comprehensive Plans</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>8:</strong>Bonus Lessons</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Helping Patients Navigate the Cancer Journey</h4>
+<h4><strong>Lesson 2:</strong> Oncologic Emergencies</h4>
+<h4><strong>Lesson 3:</strong> Epigenetic &amp; Nutrigenomic Influences On Oncogene Expression</h4>
+</div>
+<h2 class="darkblue"><span style="font-size: 26pt; font-weight: 300;">The Foundations of Integrative Oncology Course delivers hundreds of hours worth of <strong class="orange">added value.</strong></span></h2>
+<div class="darkblue">
+<div class="orbullets">
+<ul>
+ 	<li>All Lessons Delivered in Video, Audio and PDF summaries</li>
+ 	<li>More than 3 years of Grand Rounds recordings with live mentoring, treatment plans, clinical pearl lectures, and more!</li>
+ 	<li>Bonus In-Depth Clinician Guides</li>
+ 	<li>Special Member-only Discounts &amp; Opportunities</li>
+ 	<li>Backed by a 30-Day Satisfaction Guarantee</li>
+</ul>
+</div>
+</div>
+<h2 class="orange large"><span style="font-size: 30pt;">Price: $3,499</span></h2>
+<h2 class="orange large"><span style="font-size: 30pt; line-height: 1.4;"><em>Or choose a payment plan and start for as little as $945</em></span></h2>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1467053527" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-color: #ff8220; background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns2.png'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 31.4175px;">
+<div class="created-by">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1467053528" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1467053528" class="ttfmp-panels-item-content">
+<div class="onethird"><img class="alignleft size-full wp-image-681" src="http://www.aiiore.com/wp-content/uploads/2015/12/nalini-wh.png" alt="nalini-wh" width="180" height="180" /></div>
+<div class="twothirds">
+<p class="smallcredit">created by</p>
+
+<h2 class="bigcredit">Dr. Nalini Chilkov, L.Ac., O.M.D.</h2>
+<p class="white medium"><strong>American Institute of Integrative Oncology Research &amp; Education</strong></p>
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1466006560" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels parallax accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1466006561" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1466006561" class="ttfmp-panels-item-content">
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-654" src="http://www.aiiore.com/wp-content/uploads/2015/12/jjvirgin-1.png" alt="jj virgin" width="160" height="160" />
+<p class="centered grey medium" style="margin-top: 30px;">“Dr. Nalini Chilkov is my number one resource for cutting-edge cancer information. She is on the leading-edge of Integrative Cancer Care. I have sent my closest friends to her.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">JJ Virgin, CNS, CHFS</p>
+<p class="centered darkblue small">Celebrity Nutrition &amp; Fitness Expert, Best-selling Author</p>
+
+</div>
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-818" src="http://www.aiiore.com/wp-content/uploads/2015/12/sondra-becchetti.png" alt="sondra-becchetti" width="160" height="160" />
+<p class="grey medium centered" style="margin-top: 30px;">“Extremely useful and well presented information that a practitioner can implement immediately to help their patients. Exactly what I wanted. Concise and packed with good information.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Sondra Becchetti, D.C.</p>
+<p class="centered darkblue small">Phoenix, Arizona</p>
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1466006850" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/darkbluebg.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center; padding: 50px 50px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1466006851" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1466006851" class="ttfmp-panels-item-content">
+<h3 class="large orange"><span style="font-size: 30pt; color: #ff8221;">Expand Your Professional Expertise and Your Practice</span></h3>
+<p class="white large centered" style="margin-bottom: 30px;"><em>Meet the cancer patient’s long-term unmet need</em></p>
+<p class="white medium centered">The facts are well documented. In their lifetimes, one in three women, and one in two men will be diagnosed with cancer. By 2022, there will be 18 million cancer survivors just in the U.S.</p>
+<p class="orange medium centered">Will you have the expertise and clinical knowledge to provide them with the understanding and guidance they deserve?</p>
+
+</div>
+</div>
+</div>
+</section><section id="builder-section-1466007693" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1466007694" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1466007694" class="ttfmp-panels-item-content">
+<h3 class="darkblue"><span style="font-size: 26pt;">What if every cancer patient had a HEALTH PLAN, not just a disease plan?</span></h3>
+<div class="orangebullets">
+<div class="orbullets">
+<ul>
+ 	<li>With nearly half the US population impacted by cancer, patients already in your practice need you to guide them from the moment of diagnosis, through treatment and recovery and back to health and a life beyond cancer.</li>
+ 	<li>Do you have the confidence and training to serve these patients?</li>
+ 	<li>Do you know how to answer your patient’s questions with expertise and certainty?</li>
+ 	<li>Do you know how to provide highly individualized care to meet your patient’s unique needs?</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1466009105" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1466009106" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1466009106" class="ttfmp-panels-item-content">
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-812" src="http://www.aiiore.com/wp-content/uploads/2015/12/Davis-Brockenshire-1.png" alt="Davis-Brockenshire" width="160" height="160" />
+<p class="centered grey medium" style="margin-top: 30px;">“This is the best evidence-based and traditional integration of botanical and lifestyle solutions for cancer management.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Davis Brockenshire, D.C.</p>
+<p class="centered darkblue small">Plymouth, Michigan</p>
+
+</div>
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-810" src="http://www.aiiore.com/wp-content/uploads/2015/12/susan-debin-1.png" alt="susan-debin" width="160" height="160" />
+<p class="grey medium centered" style="margin-top: 30px;">“I wish I had learned this in medical school. Here is an opportunity to support our patients before, during, and after their cancer care.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Susan Debin, M.D. FAAFP</p>
+<p class="centered darkblue small">Orange, California</p>
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1451518664646" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns2.png'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 32.9175px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1451518664650" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1451518664650" class="ttfmp-panels-item-content">
+<h2 class="white"><span style="font-size: 26pt; color: white;">Benefit your patients and your practice by bridging the gap between cancer treatment and long term health.</span></h2>
+<div class="halves"><img class="alignleft size-large wp-image-853" style="padding-bottom: 30px;" src="http://www.aiiore.com/wp-content/uploads/2015/12/hands-1024x981.jpg" alt="hands" width="620" height="594" /></div>
+<div class="halves">
+<div class="orbullets">
+<ul class="whitebullets">
+ 	<li>Establish yourself as an innovative specialist and expert</li>
+ 	<li>Expand your practice and patient base</li>
+ 	<li>Generate substantial new revenues and referrals</li>
+ 	<li>Skillfully assess and manage cancer patients without guesswork</li>
+ 	<li>Provide patients with outcomes and answers they cannot find elsewhere</li>
+ 	<li>Increase patient satisfaction, fulfillment, and gratitude</li>
+ 	<li>Help patients capture and sustain greater post-cancer treatment health and wellness</li>
+ 	<li>Experience a deeper sense of meaning, value, and professional pride</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1451517658799" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1451517658805" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1451517658805" class="ttfmp-panels-item-content">
+<h2 class="darkblue large">Gain this expertise online at your own pace – anytime, anywhere</h2>
+<div class="halves">
+<p class="bluecredit">BECOME AN INTEGRATIVE CANCER CARE EXPERT. LEARN FROM...</p>
+
+<div class="orbullets">
+<div class="orangebullets">
+<ul class="darkblue largelist">
+ 	<li>Your office</li>
+ 	<li>The comfort of your home</li>
+ 	<li>Your favorite vacation destination</li>
+ 	<li>After the kids go to bed</li>
+ 	<li>While taking your morning walk</li>
+ 	<li>On your way to work</li>
+</ul>
+</div>
+</div>
+<p class="bluecredit">AN EXPANSIVE LIBRARY OF RESOURCES &amp; REAL CASES.</p>
+
+<div class="orangebullets">
+<div class="orbullets">
+<ul class="darkblue largelist">
+ 	<li>Recordings from 3 years of Live Grand Rounds Calls</li>
+ 	<li>Clinical Pearl Lectures on Advanced Topics in Integrative Oncology</li>
+ 	<li>Case Reviews with audio recordings and treatment plans</li>
+ 	<li>Q&amp;A Clinical Questions with references</li>
+ 	<li>Recommended Published Research Papers for Enhanced Learning</li>
+ 	<li>Available to you online anytime, anywhere – 24/7</li>
+ 	<li>Implement into your practice immediately</li>
+ 	<li>Requires absolutely NO travel time and expense</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="halves"><img class="alignright size-large wp-image-864" src="http://www.aiiore.com/wp-content/uploads/2015/12/nalini1-639x1024.jpg" alt="nalini1" width="479" height="768" /></div>
+<h2 class="grey" style="padding-top: 25px; float: left;">This <strong><span class="orange">exceptional opportunity</span></strong> to change your practice and the lives of your patients is available to you right now.</h2>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1451518409481" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-color: #ff8220; background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 59.6175px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1451518409486" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1451518409486" class="ttfmp-panels-item-content">
+
+<em class="large white centered">Register today for Dr. Nalini Chilkov’s Course:</em>
+<h2 class="verylarge white centered" style="margin: 25px 0px;">Foundations of Integrative Oncology</h2>
+<strong class="large white centered">100% Online – Learn at Your Own Pace</strong>
+<div class="centered " style="text-align: center;"></div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1482946444270" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1482946444277" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1482946444277" class="ttfmp-panels-item-content">
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-653" src="http://www.aiiore.com/wp-content/uploads/2015/12/gottfried-1.png" alt="gottfried" width="160" height="160" />
+<p class="centered grey medium" style="margin-top: 30px;">“Dr. Chilkov’s programs are masterful. You will feel empowered by her toolbox of natural medicines, as well as diet and lifestyle guidelines that are at the root of cancer prevention, cancer recovery, and a long and healthy life.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Sara Gottfried, M.D.</p>
+<p class="centered darkblue small">Best-selling Author, The Hormone Cure</p>
+
+</div>
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-816" src="http://www.aiiore.com/wp-content/uploads/2015/12/greg-celaya.png" alt="greg-celaya" width="160" height="160" />
+<p class="grey medium centered" style="margin-top: 30px;">“This program gave me much more information than I expected. Dr. Chilkov has a mastery of knowledge in this subject.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Greg Celaya, D.C., MS, CNS, D.Ac, BN</p>
+<p class="centered darkblue small">Phoenix, Arizona</p>
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483027199083" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/darkbluebg.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483027199091" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483027199091" class="ttfmp-panels-item-content">
+<h2 class="large orange">Become the Trusted Expert and Number One Referral in your Community</h2>
+<div class="halves">
+<p class="white">There is a void among clinicians when it comes to…</p>
+
+<ul class="whitebullets">
+ 	<li>Cancer prevention and wellness programs</li>
+ 	<li>Managing cancer treatment side effects</li>
+ 	<li>Utilizing a health model in an area that is primarily disease-focused</li>
+ 	<li>Restoring cancer patients back to a productive healthy lifestyle</li>
+ 	<li>Promoting longevity and a satisfying quality of life for survivors</li>
+</ul>
+</div>
+<div class="halves">
+<p class="white">This training is for...</p>
+
+<div class="orbullets">
+<ul class="whitebullets">
+ 	<li>Nurses &amp; Nurse Practitioners</li>
+ 	<li>Physician’s Assistants</li>
+ 	<li>Osteopaths</li>
+ 	<li>Palliative &amp; Hospice Care Specialists</li>
+ 	<li>Cancer Coaches</li>
+ 	<li>Nutritionists &amp; Dieticians</li>
+ 	<li>Acupuncturists &amp; Chiropractors</li>
+ 	<li>and other Health Professionals</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483027203708" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 93.6976px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483027203711" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483027203711" class="ttfmp-panels-item-content">
+<h2 style="margin: 0px !important;"><em class="large centered white" style="line-height: 1 !important;">Your pathway to serving this vital need is Dr. Nalini Chilkov’s</em></h2>
+<h2 class="large white">Foundations of Integrative Oncology Online Course</h2>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483037182" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483037183" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483037183" class="ttfmp-panels-item-content">
+<h2 class="large darkblue">Dr. Chilkov shows you exactly how to combine evidence-based science and functional medicine with research-supported natural therapies and modern Chinese cancer care treatments</h2>
+<div class="halves">
+<div class="orbullets">
+<div class="orangebullets">
+<ul class="darkblue">
+ 	<li>Provide a comprehensive health model for the cancer journey, and not merely a “war on cancer” model</li>
+ 	<li>Protect healthy organs from toxic treatments</li>
+ 	<li>Use laboratory and diagnostic tests to monitor the cancer microenvironment</li>
+ 	<li>Skillfully use nutraceuticals, botanicals, medical foods, and lifestyle interventions</li>
+ 	<li>Influence genetic expression of oncogenes and tumor suppressor genes</li>
+ 	<li>Utilize leading-edge evaluations and analyses of genomic factors that influence cancer prevention, growth and progression</li>
+ 	<li>And more...</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="halves">
+
+<img class="aligncenter size-full wp-image-817" src="http://www.aiiore.com/wp-content/uploads/2015/12/jeff-lester.png" alt="jeff-lester" width="160" height="160" />
+<p class="grey medium centered" style="margin-top: 30px;">“Clinically relevant, clear, and well researched information that can be used immediately in our medical clinic.”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Dr. Jeff Lester, D.O.</p>
+<p class="centered darkblue small">from Watsonville, California</p>
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483042233676" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns2.png'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 82.4177px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483042233682" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483042233682" class="ttfmp-panels-item-content">
+<h2 class="white large">Learn from a World-renowned Integrative Cancer Care Pioneer</h2>
+<p class="white small">Dr. Nalini Chilkov, L.Ac., O.M.D. is the Founder of <strong>Integrative Cancer Answers</strong>, and an internationally renowned authority on integrative cancer care, immune enhancement, optimal nutrition and wellness medicine. She is also author of the bestselling book, <strong>32 Ways to Outsmart Cancer</strong>.</p>
+
+<div class="halves"><img class="alignright size-full wp-image-739" src="http://www.aiiore.com/wp-content/uploads/2015/12/aiiore-photo4.jpg" alt="aiiore-photo4" width="350" height="421" /></div>
+<div class="halves">
+<p class="white small">For over 30 years, Dr. Chilkov has helped thousands of people with serious and chronic illnesses achieve and maintain extraordinary health and longevity.</p>
+<p class="white small">She is sought out routinely by award-winning Hollywood celebrities and insiders, and is recognized as a “Go To Health Care Provider” in Susanne Sommer’s book, <em>Doctors Who Are Curing Cancer and How to Prevent Getting It in the First Place</em>.</p>
+<p class="white small">Dr. Chilkov is one of the original Huffington Post Healthy Living bloggers. She’s appeared on NBC TV’s Access Hollywood and has been featured in Integrative Cancer Medicine Magazine.</p>
+<p class="white small">In addition, Dr. Chilkov has been given the distinction of being one of the <strong>Top 10 Influencers Making a Difference in Breast Cancer</strong> by ShareCare.com — which was co-founded by Dr. Mehment Oz and WebMD.</p>
+
+</div>
+<p class="white small" style="clear: both;">In a career marked by continual innovation, the American Institute of Integrative Oncology Research and Education is Dr. Chilkov's most important project to date — because it represents an opportunity to reach and help a larger number of patients who are struggling.</p>
+
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483503810271" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 95.9774px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483503810276" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483503810276" class="ttfmp-panels-item-content">
+<h2 class="large white"><em>More than 30 years of her expertise, experience, and heart and soul have been poured into this</em><strong> first-of-its-kind eight-module online program.</strong></h2>
+<div class="coursebutton">
+<ul>
+ 	<a href="https://dn107.infusionsoft.app/app/orderForms/Foundations-of-Integrative-Oncology?cookieUUID=c2f74412-d2f8-47be-be6d-38cd6e308f45"><li class="registernow"></li></a>
+</ul>
+&nbsp;
+
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483550870287" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483550870292" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483550870292" class="ttfmp-panels-item-content">
+<h2 class="large darkblue" style="font-weight: 300;">How do you like to learn?</h2>
+<p class="bluecredit">APPLICATION</p>
+
+<div class="orangebullets">
+<div class="orbullets">
+<ul>
+ 	<li>More than 3 years of Grand Rounds Recordings with Dr. Chilkov, featuring:</li>
+ 	<li>Clinical Pearl Lectures on Advanced Topics in Integrative Oncology</li>
+ 	<li>Case Reviews with audio recordings and treatment plans</li>
+ 	<li>Q&amp;A Clinical Questions with references</li>
+ 	<li>Recommended Published Research Papers for Enhanced Learning</li>
+</ul>
+<p class="bluecredit">VIDEO</p>
+
+<ul>
+ 	<li>Training videos within each module are presented in 15 to 20-minute segments</li>
+ 	<li>It is easy to stop, pick up where you left off, or select specific sections for further review</li>
+</ul>
+<p class="bluecredit">AUDIO</p>
+
+<ul>
+ 	<li>All lessons can be reviewed on your smartphone or audio player while driving, working out, or hustling through your daily routines</li>
+ 	<li>Audio listening is also a convenient way to review material you previously covered on video</li>
+</ul>
+<p class="bluecredit">WRITTEN</p>
+
+<ul>
+ 	<li>Print out summary guides or slides to follow along or use as reference</li>
+ 	<li>Plus, Dr. Chilkov has adapted the most in-demand topics into comprehensive Clinician Guides</li>
+</ul>
+</div>
+</div>
+<img class="aligncenter size-full wp-image-750" style="margin-top: 50px;" src="http://www.aiiore.com/wp-content/uploads/2015/12/doctor-1.png" alt="doctor" width="160" height="160" />
+<p class="grey medium centered" style="margin-top: 30px;">“Dr. Nalini Chilkov is an expert in whole-person cancer prevention and care. She fortifies her wisdom of traditional medicine with up-to-date science. The result is pragmatic, inspirational and meaningful health!”</p>
+<p class="centered orange medium" style="margin-bottom: 10px!important;">Dr. Lise Alschuler, N.D., F.A.B.N.O.</p>
+<p class="centered darkblue small">Fellow of the American Board of Naturopathic Oncology</p>
+
+</div>
+</div>
+</div>
+</section><section id="hide-me" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1487279249148" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1487279249148" class="ttfmp-panels-item-content">
+<h2 class="verylarge darkblue">Course Modules</h2>
+<div class="blueboxheader">
+<h3><strong>1:</strong>Introduction to Integrative Cancer Care</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Introduction &amp; Overview</h4>
+<h4><strong>Lesson 2:</strong> The Challenge &amp; Mystery of Cancer</h4>
+<h4><strong>Lesson 3:</strong> Cancer Statistics</h4>
+<h4><strong>Lesson 4:</strong> What is Integrative Cancer Care?</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>2:</strong>The Complex Landscape of Cancer</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Complex Systems and Individualized Care</h4>
+<h4><strong>Lesson 2:</strong> Characteristics of Tumor Cells</h4>
+<h4><strong>Lesson 3:</strong> Hallmarks of Cancer</h4>
+<h4><strong>Lesson 4:</strong> Patient Biological Terrain</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>3:</strong>Principles of Diet &amp; Nutrition for Cancer Patients</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Epigenetic Impact of Foods on Gene Expression</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>4:</strong>Integrative Cancer Care Toolbox</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Core Nutraceuticals</h4>
+<h4><strong>Lesson 2:</strong> Medical Foods, Protein Repletion &amp; Glycemic Control</h4>
+<h4><strong>Lesson 3:</strong> Materia Medica: Targeted Phytochemicals</h4>
+<h4><strong>Lesson 4:</strong> Materia Medica: Targeted Nutraceuticals</h4>
+<h4><strong>Lesson 5:</strong> Materia Medica: Immune Modulation</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>5:</strong>Introduction to Oriental Medicine &amp; Cancer</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Ancient Tradition &amp; Cancer</h4>
+<h4><strong>Lesson 2:</strong> Modern Oriental Medicine &amp; Cancer Care</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>6:</strong>Building Comprehensive Support Plans</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Building a Comprehensive Support Plan</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>7:</strong>Into Practice: Case Studies &amp; Support Plans</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Case Studies: Basic Principles &amp; Sample Support Plans</h4>
+<h4><strong>Lesson 2:</strong> Case Studies: Complex Cases &amp; Comprehensive Plans</h4>
+</div>
+<div class="blueboxheader">
+<h3><strong>8:</strong>Bonus Lessons</h3>
+<p class="proginfo"></p>
+
+</div>
+<div class="bluesection">
+<h4><strong>Lesson 1:</strong> Helping Patients Navigate the Cancer Journey</h4>
+<h4><strong>Lesson 2:</strong> Oncologic Emergencies</h4>
+<h4><strong>Lesson 3:</strong> Epigenetic &amp; Nutrigenomic Influences On Oncogene Expression</h4>
+</div>
+<h2 class="verylarge darkblue">The Foundations of Integrative Oncology Course delivers hundreds of hours worth of <strong class="orange">added value.</strong></h2>
+<div class="orangebullets">
+<ul>
+ 	<li>All Lessons Delivered in Video, Audio and PDF summaries</li>
+ 	<li>More than 3 years of Grand Rounds recordings - audio, slides and summaries</li>
+ 	<li>Bonus In-Depth Clinician Guides</li>
+ 	<li>Special Member-only Discounts &amp; Opportunities</li>
+ 	<li>Backed by a 30-Day Satisfaction Guarantee</li>
+</ul>
+</div>
+<h2 class="verylarge darkblue"><strong>Just </strong><strong class="orange">$2,499</strong>!</h2>
+<h2 class="orange large"><em>Payment Plans Available</em></h2>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1483565351018" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 113.498px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1483565351024" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1483565351024" class="ttfmp-panels-item-content">
+<h2 class="large white italicized" style="margin: 0px !important;">Register now and receive</h2>
+<h2 class="verylarge white" style="margin: 0px !important;">$2,000+ in Added Value Bonuses &amp; Extras!</h2>
+<div class="onethird"><img class="alignright size-large wp-image-852" style="margin-top: 15px !important;" src="http://www.aiiore.com/wp-content/uploads/2015/12/doctor4-837x1024.jpg" alt="doctor4" width="290" height="355" /></div>
+<div class="twothirds" style="padding: 0 120px 0 20px;">
+<p class="bluecredit white" style="margin-top: 30px;">get immediate, lifetime access to...</p>
+
+<ul class="white whitebullets">
+ 	<li style="line-height: 1.5em!important;">20+ hours of Instruction in Video and Audio format (valued at more than $14,000)</li>
+ 	<li style="line-height: 1.5em!important;">Three years of Grand Rounds Recordings with Dr. Chilkov (valued at more than $1,500)</li>
+ 	<li style="line-height: 1.5em!important;">20 Lesson Summary Study Guides (valued at more than $1,000)</li>
+ 	<li style="line-height: 1.5em!important;">7 Comprehensive Clinician Guides (valued at more than $1,00)</li>
+ 	<li style="line-height: 1.5em!important;">Print-on-Demand Patient Resources (valued at more than $150)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1484069572364" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1484069572370" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1484069572370" class="ttfmp-panels-item-content">
+<p class="centered medium darkblue" style="margin-bottom: 0px !important;"><strong>At no extra cost with your registration:</strong></p>
+
+<h2 class="large darkblue">Three years of Grand Rounds Recordings valued at $1,500!</h2>
+<h2 class="large darkblue">PLUS ALL OF THESE ADDITIONAL BONUSES valued over $2,000!</h2>
+<ul style="margin-top: 20px;">
+ 	<li class="blueswirlies">Dr. Chilkov's OutSmart Cancer Care Planner</li>
+ 	<li class="blueswirlies">Clinician Cancer Glossary</li>
+ 	<li class="blueswirlies">Therapeutic Targeting of Cancer Cell Capabilities</li>
+ 	<li class="blueswirlies">Top 10 Foundation Supplements Plus Therapeutic Super Shake</li>
+ 	<li class="blueswirlies">Common Side Effects of Chemotherapy &amp; Radiation Treatment</li>
+ 	<li class="blueswirlies">Key Tests for Monitoring the Cancer Microenvironment</li>
+ 	<li class="blueswirlies">Understanding Tumor Staging, Grading, and Pathology Reports</li>
+ 	<li class="blueswirlies">Patient Resource: Healthy Living Shopping List</li>
+ 	<li class="blueswirlies">Patient Resource: Therapeutic Super Shake Recipe</li>
+ 	<li class="blueswirlies">Patient Resource: Recommended Books, Websites, Tools and Support</li>
+ 	<li class="blueswirlies">Special Partner Offers &amp; Discounts only for Members</li>
+</ul>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1484068773895" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1484068773900" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1484068773900" class="ttfmp-panels-item-content">
+<h2 class="large darkblue" style="font-size: 42px;">Dr. Chilkov is committed to providing you with the greatest possible value for your investment.</h2>
+<p class="medium centered">You could work with Dr. Chilkov through one-on-one mentoring sessions to learn everything she teaches you in her <strong>Foundations of Integrative Oncology Course</strong>.</p>
+<p class="medium centered">However, based on today’s industry standards for such one-to-one mentoring, you would pay $20,000+ for this training. And you wouldn’t have lifetime online access to the video, audio and printed resources.</p>
+<p class="medium centered">The need among clinicians to receive this comprehensive training cannot be overstated. By 2022, there will be 18 million cancer survivors in the U.S. who will be in need of specialized healthcare.</p>
+<p class="darkblue medium centered">To make it available to as many clinicians as possible, Dr. Chilkov wants to give you immediate access to her <strong class="orange">Foundations of Integrative Oncology Course</strong> for only $3,499.</p>
+<p class="darkblue medium centered">However, since you are one of the first people to invest in the <strong class="orange">Foundations of Integrative Oncology Course</strong>, Dr. Chilkov wants to make it even more accessible.</p>
+
+</div>
+</div>
+</div>
+</section><section id="builder-section-1484070283903" class="builder-section-prev-panels builder-section builder-section-panels builder-section-next-panels has-background parallax accordion-mode" style="background-image: url('http://www.aiiore.com/wp-content/uploads/2015/12/aiiore_patterns.jpg'); background-repeat: repeat; background-attachment: fixed; background-position: 50% 20.0476px;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1484070283908" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1484070283908" class="ttfmp-panels-item-content">
+<h2 class="large white">Price: $3,499</h2>
+<h2 class="large white"><em>Or choose a payment plan and start for as little as $945</em></h2>
+<h2 class="large white"><em>PLUS receive over $2,000 of added value bonus materials and live calls</em></h2>
+<h2 class="large white"><strong>That is an immediate savings of $2,000!</strong></h2>
+</div>
+</div>
+</div>
+</section><section id="builder-section-1484070546837" class="builder-section-prev-panels builder-section builder-section-panels builder-section-last accordion-mode" style="background-size: cover; background-repeat: no-repeat; background-position: center center;">
+<div class="builder-section-content">
+<div class="ttfmp-accordion-container" data-height-style="" data-start-collapsed="false">
+<div id="ttfmp-panels-item-title-1484070546844" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1484070546844" class="ttfmp-panels-item-content">
+
+<img class="aligncenter size-full wp-image-778" src="http://www.aiiore.com/wp-content/uploads/2015/12/guarantee.png" alt="guarantee" width="270" height="214" />
+<h2 class="verylarge darkblue">Risk-Free 30-Day Guarantee</h2>
+<h2 class="large orange">Dr. Chilkov wants to eliminate any risk when you register for the <strong>Foundations of Integrative Oncology Course</strong> by including this risk-free guarantee.</h2>
+<p class="small" style="text-align: center;">If at any point during the first <strong>30 DAYS</strong> after your registration you are not completely satisfied with the program, Dr. Chilkov will refund your payment in full – No questions asked.</p>
+
+</div>
+<div id="ttfmp-panels-item-title-1487010986186" class="ttfmp-panels-item-title"></div>
+<div id="ttfmp-panels-item-content-1487010986186" class="ttfmp-panels-item-content"><script type="text/javascript">	 	 
+jQuery('.viewprog').click(function(){	 	 
+jQuery('#builder-section-1486698019448').slideToggle()});	 	 
+jQuery('.viewprog2').click(function(){	 	 
+jQuery('#builder-section-1487279249142').slideToggle()});	 	 
+jQuery('.proginfo, .lowerprogtrigger').click(function(){jQuery(this).toggleClass('topsy').parent().next().toggle()});	 	 
+</script></div>
+</div>
+</div>
+</section>
